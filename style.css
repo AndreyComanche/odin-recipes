@@ -1,8 +1,16 @@
+body {
+    font-size: 24px;
+    font-family: "Georgia", "Times New Roman", serif;
+    width: 80%;
+    margin: auto;
+}
+
 h1 {
     text-align: center;
 }
 
 .main-image {
-    width: 50%;
+    width: 75%;
     height: auto;
+    margin-left: 12.5%;
 }
